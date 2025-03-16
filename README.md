@@ -12,8 +12,7 @@ This repository showcases various implementations of agentic AI workflows using 
 
 The implementations in this repository were inspired by concepts discussed in the following article:
 
-[(https://www.anthropic.com/engineering/building-effective-agents)]
-
+[Click Here](https://www.anthropic.com/engineering/building-effective-agents)
 ## Getting Started
 
 1. Clone the repository:
